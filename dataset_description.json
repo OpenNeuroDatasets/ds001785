@@ -14,8 +14,9 @@
         "Swiss National Science Foundation"
     ],
     "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors. Also, please include the following message: 'This data was obtained from the Open Neuro database.'",
-    "Name": "Perithreshold Tactile detection task with confidence",
+    "Name": "Evidence accumulation determines conscious access",
     "ReferencesAndLinks": [
         "List of papers or websites"
-    ]
+    ],
+    "License": "CC0"
 }
