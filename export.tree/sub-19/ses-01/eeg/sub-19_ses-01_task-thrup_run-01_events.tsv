@@ -1,8 +1,0 @@
-onset	duration	trial_type	event_value	event_sample	response_time	response_time2	stimamp	stimon	sdt	confidence
-10.439453125	0	stim-thr	10	10690	n/a	n/a	0.1	0.12094	n/a	n/a
-14.2763671875	0	stim-thr	10	14619	n/a	n/a	0.12	0.79852	n/a	n/a
-17.6708984375	0	stim-thr	10	18095	n/a	n/a	0.14	1.0538	n/a	n/a
-20.5859375	0	stim-thr	10	21080	n/a	n/a	0.16	0.8336	n/a	n/a
-24.1982421875	0	stim-thr	10	24779	n/a	n/a	0.18	1.3137	n/a	n/a
-27.2734375	0	stim-thr	10	27928	n/a	n/a	0.2	1.2559	n/a	n/a
-29.740234375	0	stim-thr	10	30454	n/a	n/a	n/a	n/a	n/a	n/a
