@@ -1,2 +1,5 @@
-sub-patient/*/*/*
+/sub-patient
+/sub-patient/*
+/sub-patient/ses-01/*
+/sub-patient/ses-01/*/*
 
