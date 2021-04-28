@@ -1,0 +1,8 @@
+"TaskName": "tactile detection",
+"TaskDescription": "detect a perithreshold tactile stimulation (100ms) during a 2 s window. First-order (felt:yes/no) and second-order (confidence)",
+"Manufacturer": "ANTNeuro",
+"RecordingType": "continuous",
+"SamplingFrequency": 1024,
+"PowerLineFrequency": 50,
+"HardwareFilters": "n/a",
+"SoftwareFilters": "n/a",
