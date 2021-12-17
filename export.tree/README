@@ -1,0 +1,18 @@
+This dataset contains the EEG used in the paper: ""$
+
+Participants:
+Twenty healthy participants (X woman; age: XX±XX) participated in this study for a 40 CHF compensation. Subjects gave written informed consent prior to participating and all experimental procedures were approved by the regional ethics committee (XXX). 
+
+Experimental pardigm: 
+After estimating individual perceptual thresholds, participants performed 500 trials consisting in detecting a weak tactile vibration and reporting their confidence. The stimuli were applied on the right wrist (MORE DETAILS) using a MMC3 Haptuator vibrotactile device from TactileLabs Inc. (Montréal, Canada) and consisted in a 230 Hz vibration lasting 100 ms and driven by an audio signal. To estimate the individual perceptual threshold we applied the stimulus with decreasing intensity until the participant reported not feeling the vibration. We then repeated the same procedure but with increasing intensity and until the participant reported feeling the vibration. The perceptual threshold was estimated to be the average between the two thresholds found using this procedure. This threshold was then used as a seed value for the adaptive staircase (see below). 
+
+During the main task, participants saw a white fixation cross appear in the middle of the screen which informed them that they should pay attention during the next X seconds. At uniformly distributed times, a tactile stimulus was applied in 80% of the trial. The 20% remaining trials served as catch trials to ensure that participants correctly reported their perception. In all trials, XX seconds after ?? participants were prompted to answer with the keyboard whether they felt the stimulus or not. XX seconds after CONF??? 
+
+We ensured that first-order performance would converge to 50% by using a 1-up/1-down staircase procedure (Lewitt19??). After hits, the stimulus intensity was increased by X% while after misses, it was decreased by the same amount. No adjustment of the stimulus intensity was performed after catch trials no matter the outcome (correct rejection or false alarm). 
+
+
+Recordings:
+Electrophysiological data were acquired from XX active electrodes (10-20 montage) using an ANTNeuro XX amplifier and digitized at a sampling rate of XX Hz. Horizontal electrooculography (EOG) was derived using a bipolar referencing between two electrodes placed under the outer canthi of the participants’ eyes. Similarly, vertical EOG was derived using a bipolar referencing between the average of the outer canthi electrodes and a third electrode placed above the nasion.
+
+
+
